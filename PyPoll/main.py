@@ -2,7 +2,6 @@
 
 import os
 import csv
-import numpy as np
 
 csvpath = os.path.join("election_data.csv")
 
