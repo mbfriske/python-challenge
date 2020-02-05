@@ -75,6 +75,7 @@ The winner of the election based on popular vote.
 
 
 As an example, your analysis should look similar to the one below:
+
 Election Results
 -------------------------
 Total Votes: 3521001
