@@ -25,3 +25,4 @@ Your task is to create a Python script that analyzes the records to calculate ea
   * The greatest decrease in losses (date and amount) over the entire period
 
   ![PyBank Result](/images/pybank_screenshot.png)
+  .
